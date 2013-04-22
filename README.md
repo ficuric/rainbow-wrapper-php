@@ -1,4 +1,4 @@
-rainbow-wrapper
+Rainbow Platfom Client Api Wrapper
 ===============
 
-Rainbow Email Platform Api Client Wrapper
+This is PHP wrapper for usage with Rainbow Carrier Email Platform
